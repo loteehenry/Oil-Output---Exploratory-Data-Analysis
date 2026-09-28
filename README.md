@@ -1,6 +1,6 @@
-# Oil Production Exploratory Data Analysis
+# Oil Output Exploratory Data Analysis
 
-This repository contains an exploratory data analysis of monthly oil and condensate production from major Nigerian terminals/streams between 2024 and mid-2026. The project uses public terminal-level production data from the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) to explore production volatility, directional trends, and Pareto concentration across terminals.
+This repository contains an exploratory data analysis of monthly oil and condensate output from major Nigerian terminals/streams between 2024 and mid-2026. The project uses public terminal-level output data from the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) to explore output volatility, directional trends, and Pareto concentration across terminals.
 
 ## Project overview
 
